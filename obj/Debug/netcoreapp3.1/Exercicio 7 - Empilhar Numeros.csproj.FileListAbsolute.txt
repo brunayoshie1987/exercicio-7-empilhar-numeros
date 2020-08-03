@@ -1,0 +1,13 @@
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.exe
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.deps.json
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.runtimeconfig.json
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.runtimeconfig.dev.json
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.dll
+C:\repo\Exercicio 7 - Empilhar Numeros\bin\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.pdb
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.csprojAssemblyReference.cache
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.AssemblyInfoInputs.cache
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.AssemblyInfo.cs
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.dll
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.pdb
+C:\repo\Exercicio 7 - Empilhar Numeros\obj\Debug\netcoreapp3.1\Exercicio 7 - Empilhar Numeros.genruntimeconfig.cache
